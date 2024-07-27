@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Madhav AKA Anshu
+- 👋 Hi, I’m Madhav
 - 👀 I’m interested in Learning New Concepts In Programming And Loves To Play With Codes
 - 🌱 I’m currently learning C++ and DSA
 - 📫 You can reach me through My linkedin https://www.linkedin.com/in/madhav-aghav-84915a2a4/
