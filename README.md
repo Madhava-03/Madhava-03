@@ -2,6 +2,7 @@
 
 Welcome to my GitHub!
 I’m someone who loves learning new concepts, exploring how things work under the hood, and writing code that actually solves problems.
+
 👀 About Me
 
 💡 Passionate about Programming, Problem Solving, and System Thinking
